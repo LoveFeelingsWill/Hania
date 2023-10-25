@@ -8,7 +8,7 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<p align="center"><a href="https://t.me/HONEY_SINGH_121"><img src="https://telegra.ph/file/14000ec87d2889d7d8d67.jpg"></a></p>
+<p align="center"><a href="https://t.me/HONEY_SINGH_121"><img src="https://telegra.ph/file/43f9f4432d4eb64fdb128.jpg"></a></p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -28,7 +28,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
-  <img src="https://telegra.ph/file/43f9f4432d4eb64fdb128.jpg">
+  <img src="https://telegra.ph/file/14000ec87d2889d7d8d67.jpg">
 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
