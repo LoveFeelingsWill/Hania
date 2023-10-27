@@ -14,8 +14,8 @@ tg_2 : "Failed to download the media from telegram."
 
 # Core - Call.py
 call_1 : "❥ʙᴏᴛ ʀᴇϙᴜɪʀᴇs **ᴀᴅᴍɪɴ** ᴘᴇʀᴍɪssɪᴏɴ ᴛᴏ ɪɴᴠɪᴛᴇ ᴀssɪsᴛᴀɴᴛ ᴀᴄᴄᴏᴜɴᴛ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ."
-call_2 : "❥ᴀssɪsᴛᴀɴᴛ ɪs ʙᴀɴɴᴇᴅ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴏʀ ᴄʜᴀɴɴᴇʟ, ᴘʟᴇᴀsᴇ ᴜɴʙᴀɴ.\n\n❥**ᴀssɪsᴛᴀɴᴛ ᴜsᴇʀɴᴀᴍᴇ:** @{0}\n❥**ᴀssɪsᴛᴀɴᴛ ɪᴅ:** {1}"
-call_3 : "❥ᴇxᴄᴇᴘᴛɪᴏɴ ᴏᴄᴄᴜʀᴇᴅ ᴡʜɪʟᴇ ɪɴᴠɪᴛɪɴɢ ᴀssɪsᴛᴀɴᴛ ᴀᴄᴄᴏᴜɴᴛ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ.\n\n❥**ʀᴇᴀsᴏɴ**: {0}"
+call_2 : "❥ᴀssɪsᴛᴀɴᴛ ɪs ʙᴀɴɴᴇᴅ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴏʀ ᴄʜᴀɴɴᴇʟ, ᴘʟᴇᴀsᴇ ᴜɴʙᴀɴ.\n\n**❥ᴀssɪsᴛᴀɴᴛ ᴜsᴇʀɴᴀᴍᴇ:** @{0}\n❥**ᴀssɪsᴛᴀɴᴛ ɪᴅ:** {1}"
+call_3 : "❥ᴇxᴄᴇᴘᴛɪᴏɴ ᴏᴄᴄᴜʀᴇᴅ ᴡʜɪʟᴇ ɪɴᴠɪᴛɪɴɢ ᴀssɪsᴛᴀɴᴛ ᴀᴄᴄᴏᴜɴᴛ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ.\n\n**❥ʀᴇᴀsᴏɴ**: {0}"
 call_4 : "❥ʙᴏᴛ ʀᴇϙᴜɪʀᴇs **ɪɴᴠɪᴛᴇ ᴜsᴇʀs ᴠɪᴀ ʟɪɴᴋ** ᴘᴇʀᴍɪssɪᴏɴ ᴛᴏ ɪɴᴠɪᴛᴇ ᴀssɪsᴛᴀɴᴛ ᴀᴄᴄᴏᴜɴᴛ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ ɢʀᴏᴜᴘ."
 call_5 : "❥ᴀssɪsᴛᴀɴᴛ ᴀᴄᴄᴏᴜɴᴛ ᴡɪʟʟ ʙᴇ ᴊᴏɪɴɪɴɢ ɪɴ 5 sᴇᴄᴏɴᴅs..ᴘʟᴇᴀsᴇ ᴡᴀɪᴛ!"
 call_6 : "❥ᴀssɪsᴛᴀɴᴛ ᴀᴄᴄᴏᴜɴᴛ[{0}] ᴊᴏɪɴᴇᴅ..\n\n ❥sᴛᴀʀᴛɪɴɢ..."
@@ -101,22 +101,22 @@ setting_15 : "Failed to resolve peer, Make sure you have added bot in your chann
 setting_16 : "⁉️ What is This?\n\nWhen activated, Bot will suggest your chat in every 1-2 hour about bot commands (How to use them, which are the commands and many other things) randomly."
 
 
-set_cb_1 : "Getting Audio Quality Panel..."
-set_cb_2 : "Getting Video Quality Panel..."
-set_cb_3 : "Getting Auth Users Panel..."
-set_cb_4 : "Getting Play Mode Panel..."
-set_cb_5 : "Getting Clean Mode Panel..."
-set_cb_6 : "Setting up changes."
-set_cb_7 : "Getting Auth Users List.. PLEASE WAIT."
-set_cb_8 : "Getting back.."
+set_cb_1 : "❥ᴏᴘᴇɴɪɴɢ ᴀᴜᴅɪᴏ ϙᴜᴀʟɪᴛʏ ᴘᴀɴɴᴇʟ..."
+set_cb_2 : "❥ᴏᴘᴇɴɪɴɢ ᴠɪᴅᴇᴏ ϙᴜᴀʟɪᴛʏ ᴘᴀɴɴᴇʟ..."
+set_cb_3 : "❥ᴏᴘᴇɴɪɴɢ ᴀᴜᴛʜ ᴜsᴇʀ ᴘᴀɴɴᴇʟ..."
+set_cb_4 : "❥ᴏᴘᴇɴɪɴɢ ᴘʟᴀʏ ᴍᴏᴅᴇ ᴘᴀɴɴᴇʟ..."
+set_cb_5 : "❥ᴏᴘᴇɴɪɴɢ ᴄʟᴇᴀɴ ᴍᴏᴅᴇ ᴘᴀɴɴᴇʟ..."
+set_cb_6 : "❥sᴇᴛᴛɪɴɢs ᴄʜᴀɴɢᴇᴅ."
+set_cb_7 : "❥ᴀᴜᴛʜ ᴜsᴇʀ ʟɪsᴛ.. ᴡᴀɪᴛɪɴɢ."
+set_cb_8 : "❥ɢᴇᴛᴛɪɴɢ ʙᴀᴄᴋ.."
 
 # Misc
-ustats_1 : "No User Stats Found."
+ustats_1 : "❥ɴᴏ ᴜsᴇʀ sᴛᴀᴛs ɢᴏᴛ."
 ustats_2 : "Grettings!, You have played **{0}** tracks till now with a whopping count of **{1}** times.\n\nTop {2} played by you:\n\n"
 
-gstats_1 : "ɢᴇᴛᴛɪɴɢ ɢʟᴏʙᴀʟ sᴛᴀᴛs ᴏғ ||[ᴅɪʟ❣️]|| ᴍᴜsɪᴄ ʙᴏᴛ, ᴛʜɪs ᴄᴏᴜʟᴅ ᴛᴀᴋᴇ sᴏᴍᴇ ᴛɪᴍᴇ..."
-gstats_2 : "ɴᴏ ɢʟᴏʙᴀʟ sᴛᴀᴛs ꜰᴏᴜɴᴅ."
-gstats_3 : "ɢᴇᴛᴛɪɴɢ ɢʟᴏʙᴀʟ ᴛᴏᴘ 10 {0} ᴏꜰ ᴛʜᴇ ||[ᴅɪʟ❣️]|| ʙᴏᴛ, ᴛʜɪs ᴄᴏᴜʟᴅ ᴛᴀᴋᴇ sᴏᴍᴇ ᴛɪᴍᴇ..."
+gstats_1 : "❥ɢᴇᴛᴛɪɴɢ ɢʟᴏʙᴀʟ sᴛᴀᴛs ᴏғ ||[ᴅɪʟ❣️]|| ᴍᴜsɪᴄ ʙᴏᴛ, ᴛʜɪs ᴄᴏᴜʟᴅ ᴛᴀᴋᴇ sᴏᴍᴇ ᴛɪᴍᴇ..."
+gstats_2 : "❥ɴᴏ ɢʟᴏʙᴀʟ sᴛᴀᴛs ꜰᴏᴜɴᴅ."
+gstats_3 : "❥ɢᴇᴛᴛɪɴɢ ɢʟᴏʙᴀʟ ᴛᴏᴘ 10 {0} ᴏꜰ ᴛʜᴇ ||[ᴅɪʟ❣️]|| ʙᴏᴛ, ᴛʜɪs ᴄᴏᴜʟᴅ ᴛᴀᴋᴇ sᴏᴍᴇ ᴛɪᴍᴇ..."
 gstats_4 : "**Total Queries on Bot:** {0}\n\n{1} has played **{2}** tracks till now with a whopping count of **{3}** times.\n\n**Top {4} Tracks:**\n"
 gstats_5 : "**Top {0} Chats of {1}:**\n\n"
 gstats_6 : "**Top {0} Users of {1}:**\n\n"
@@ -142,9 +142,9 @@ cplay_5 : "Only Channels are supported."
 cplay_6 : "You need to be the **Owner** of the channel[{0}] to connect it with this group.\n**Channel's Owner:** @{1}\n\nAlternatively you can link your group to that channel and then try connnecting with `/channelplay linked`"
 
 #Play
-play_1 : "🎭"
+play_1 : "🥺"
 play_2 : "**❥ Cʜᴀɴɴᴇʟ Pʟᴀʏ ᴍᴏᴅᴇ**\n\n« Pʀᴏᴄᴇssɪɴɢ...Pʟᴇᴀsᴇ Wᴀɪᴛ!\n**Lɪɴᴋᴇᴅ Cʜᴀɴɴᴇʟ:** {0}"
-play_3 : "Fᴀɪʟᴇᴅ Yᴏᴜʀ Qᴜᴇʀɪᴇs"
+play_3 : "❥Fᴀɪʟᴇᴅ Yᴏᴜʀ Qᴜᴇʀɪᴇs"
 play_4 : "🖇 **Admins Only Play**\nOnly Admins and Auth Users can play music in this group.\n\nChange mode via /playmode and if you're already admin, reload admincache via /admincache"
 play_5 : "Failed to process audio file.\n\nAudio File Size Should Be Less Than 100 mb"
 play_6 : "**Duration Limit Exceeded**\n\n**Allowed Duration: **{0} minute(s)\n**Received Duration:** {1} hour(s)"
@@ -159,7 +159,7 @@ play_14 : "**Unable to verify the URL.**\nBot wonders if this url belongs to any
 play_15 : "**Live Stream Detected**\n\nSystems have detected your track link as live stream. Want to play live stream ?"
 play_16 : "Failed to fetch track details. Try playing any other."
 play_17 : "Unable to play this type of spotify query!\n\nI can only play spotify tracks, albums, artists and playlists"
-play_18 : "**No Active Voice Chat Found**\n\nTo use force play, there must be an active voice chat going on in your group. **Force Play** stops the playing track on voice chat and starts playing the searched track instantly without disturbing/clearing queue."
+play_18 : "**❥ᴠᴄ ᴏɴ ᴋᴀʀᴏ ʏʀʀ**\n\n ❥ᴜsᴇ ғᴏʀᴄᴇ ᴘʟᴀʏ, ᴠᴄ ᴏɴ ʜᴏɴɪ ᴄʜᴀʜɪʏᴇ. **Force Play** sᴛᴏᴘ ᴀᴜʀ ᴘʟᴀʏ ᴋᴀʀᴇ ɴᴇᴡ sᴏɴɢ ɪs ᴛʀɪᴄᴋ sᴇ ʙɪɴᴀ ᴅɪsᴛᴜʀʙ ᴋɪʏᴇ ᴅᴜsᴀʀᴏɴ ᴋᴏ."
 
 
 #Playlist
