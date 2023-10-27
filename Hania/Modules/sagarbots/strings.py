@@ -14,31 +14,31 @@ START_TEXT = f"""
 """
 
 COMMANDS_TEXT = f"""
-✨ **Hello MENTION !**
-**Click on the buttons below to know my commands.**
+✨ **Hᴇʟʟᴏ MENTION !**
+**ᴄʟɪᴄᴋ ᴄᴏᴍᴍᴀɴᴅ ᴛᴏ ᴋɴᴏᴡ ɪᴛ's ғᴇᴀᴛᴜʀᴇs.**
 """
 
 START_BUTTON_GROUP = InlineKeyboardMarkup(
     [   
         [
             InlineKeyboardButton(
-                text="★ Cᴏᴍᴍᴀɴᴅs ★", callback_data="command_menu"
+                text="• ᴄᴏᴍᴍᴀɴᴅs •", callback_data="command_menu"
             ),
             InlineKeyboardButton(
-                text="★ Sᴇᴛᴛɪɴɢꜱ ★", callback_data="settings_helper"
+                text="• sᴇᴛᴛɪɴɢꜱ •", callback_data="settings_helper"
             ),                                   
         ],
         [
             InlineKeyboardButton(
-                text="★ Oᴡɴᴇʀ ★", url="https://t.me/RajputGirl168"
+                text="• ᴏᴡɴᴇʀ •", url="https://t.me/RajputGirl168"
             ),
             InlineKeyboardButton(
-                text="★ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ★", url="https://t.me/HONEY_SINGH_121"
+                text="• sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ •", url="https://t.me/HONEY_SINGH_121"
             ),                       
         ],
         [
             InlineKeyboardButton(
-                text="★ Mᴀɪɴᴛᴀɪɴᴇʀ[ᴅɪʟ] ★", url=f"https://t.me/HONEY_SINGH_121"
+                text="• ᴍᴀɪɴᴛᴀɪɴᴇʀ[ᴅɪʟ] •", url=f"https://t.me/HONEY_SINGH_121"
             ),                                  
         ]
     ]
@@ -71,7 +71,7 @@ START_BUTTON_PRIVATE = InlineKeyboardMarkup(
 COMMANDS_BUTTON_USER = InlineKeyboardMarkup(
     [   [
             InlineKeyboardButton(
-                text="• Aᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅꜱ •", callback_data="admin_cmd"
+                text="• ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅꜱ •", callback_data="admin_cmd"
             ),
             InlineKeyboardButton(
                 text="• ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅꜱ •", callback_data="bot_cmd"
@@ -160,7 +160,7 @@ SUDO_BACK_BUTTON = InlineKeyboardMarkup(
 
 
 ADMIN_TEXT = f"""
-✅--**Admin Commands:**--
+✅--**ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs:**--
 c stands for channel play.
 /pause or /cpause - Pause the playing music.
 /resume or /cresume- Resume the paused music.
@@ -187,10 +187,10 @@ Auth Users can use admin commands without admin rights in your chat.
 AUTH_BACK_BUTTON = InlineKeyboardMarkup(
     [   [
             InlineKeyboardButton(
-                text="✴ ʙᴀᴄᴋ ✴", callback_data="admin_cmd"
+                text="• ʙᴀᴄᴋ •", callback_data="admin_cmd"
             ),
             InlineKeyboardButton(
-                text="✴ ᴄʟᴏꜱᴇ ✴", callback_data="close_btn"
+                text="• ᴄʟᴏꜱᴇ •", callback_data="close_btn"
             ),            
         ],                        
     ]
@@ -237,10 +237,10 @@ BASIC_TEXT = """
 BASIC_BACK_BUTTON = InlineKeyboardMarkup(
     [   [
             InlineKeyboardButton(
-                text="✴ ʙᴀᴄᴋ ✴", callback_data="command_menu"
+                text="• ʙᴀᴄᴋ •", callback_data="command_menu"
             ),
             InlineKeyboardButton(
-                text="✴ ᴄʟᴏꜱᴇ ✴", callback_data="close_btn"
+                text="• ᴄʟᴏꜱᴇ •", callback_data="close_btn"
             ),            
         ],                        
     ]
@@ -249,15 +249,15 @@ BASIC_BACK_BUTTON = InlineKeyboardMarkup(
 ADMIN_BACK_BUTTON = InlineKeyboardMarkup(
     [   [
             InlineKeyboardButton(
-                text="✴ ᴀᴜᴛʜ ᴄᴏᴍᴍᴀɴᴅs ✴", callback_data="auth_cmds"
+                text="• ᴀᴜᴛʜ ᴄᴏᴍᴍᴀɴᴅs •", callback_data="auth_cmds"
             ),                        
         ],
         [
             InlineKeyboardButton(
-                text="✴ ʙᴀᴄᴋ ✴", callback_data="command_menu"
+                text="• ʙᴀᴄᴋ •", callback_data="command_menu"
             ),
             InlineKeyboardButton(
-                text="✴ ᴄʟᴏꜱᴇ ✴", callback_data="close_btn"
+                text="• ᴄʟᴏꜱᴇ •", callback_data="close_btn"
             ),            
         ],                        
     ]
@@ -266,20 +266,20 @@ ADMIN_BACK_BUTTON = InlineKeyboardMarkup(
 COMMAND_MENU_BUTTON = InlineKeyboardMarkup(
     [   [
             InlineKeyboardButton(
-                text="✴ ʙᴀꜱɪᴄ ᴄᴏᴍᴍᴀɴᴅꜱ ✴", callback_data="basic_cmd"
+                text="• ʙᴀꜱɪᴄ ᴄᴏᴍᴍᴀɴᴅꜱ •", callback_data="basic_cmd"
             ),                                   
         ],
         [
             InlineKeyboardButton(
-                text="✴ ᴀᴅᴠᴀɴᴄᴇᴅ ᴄᴏᴍᴍᴀɴᴅꜱ ✴", callback_data="advanced_cmd"
+                text="• ᴀᴅᴠᴀɴᴄᴇᴅ ᴄᴏᴍᴍᴀɴᴅꜱ •", callback_data="advanced_cmd"
             ),
         ],
         [
             InlineKeyboardButton(
-                text="✴ ʙᴀᴄᴋ ✴", callback_data="open_start_menu"
+                text="• ʙᴀᴄᴋ •", callback_data="open_start_menu"
             ),
             InlineKeyboardButton(
-                text="✴ ᴄʟᴏꜱᴇ ✴", callback_data="close_btn"
+                text="• ᴄʟᴏꜱᴇ •", callback_data="close_btn"
             ),            
         ],                        
     ]
