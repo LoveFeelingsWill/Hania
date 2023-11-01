@@ -9,7 +9,7 @@ from pytgcalls.exceptions import NoActiveGroupCall
 import config
 from config import BANNED_USERS
 from Hania import LOGGER, app, userbot
-from Hania.core.call import Yukki
+from Hania.core.call import hania
 from Hania.Modules import ALL_MODULES
 from Hania.utils.database import get_banned_users, get_gbanned
 
