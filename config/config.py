@@ -22,7 +22,7 @@ OWNER_ID = list(
     map(int, getenv("OWNER_ID", "").split()))
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
-UPSTREAM_REPO = "https://github.com/dilop121/Abhori-music"
+UPSTREAM_REPO = "https://github.com/dilop121/HANIAxMUSIC"
 UPSTREAM_BRANCH = "master"
 
 # GIT TOKEN ( if your edited repo is private)
