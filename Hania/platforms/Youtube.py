@@ -1,5 +1,5 @@
 
-from Hania.plugins.techzbots.database.limitsdb import is_approved
+from Hania.utils.database.limitsdb import is_approved
 import asyncio
 import os
 import re
