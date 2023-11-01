@@ -1,4 +1,4 @@
-from YukkiMusic.core.mongo import mongodb
+from Hania.core.mongo import mongodb
 from config import OWNER_ID
 from Hania.misc import SUDO_USERS
 
