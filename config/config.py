@@ -22,11 +22,11 @@ OWNER_ID = list(
     map(int, getenv("OWNER_ID", "").split()))
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
-UPSTREAM_REPO = "https://github.com/dilop121/HANIAxMUSIC"
+UPSTREAM_REPO = "https://github.com/LoveFeelingsWill/Hania"
 UPSTREAM_BRANCH = "master"
 
 # GIT TOKEN ( if your edited repo is private)
-GIT_TOKEN = getenv("GIT_TOKEN","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")
+GIT_TOKEN = getenv("GIT_TOKEN",None)
 SUPPORT_GROUP = getenv("SUPPORT_GROUP", None)
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False").capitalize()
 AUTO_LEAVE_ASSISTANT_TIME = int(
