@@ -46,7 +46,7 @@ async def init():
         pass
     await app.start()
     for all_module in ALL_MODULES:
-        importlib.import_module("Hania.plugins." + all_module)
+        importlib.import_module("Hania.Modules." + all_module)
     LOGGER("Hania.Modules").info(
         "Successfully Imported Modules "
     )
